@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cryptosal/static/css/main.a13c87df.css",
+    "main.js": "/Cryptosal/static/js/main.9629aa4f.js",
+    "static/media/logo.jpg": "/Cryptosal/static/media/logo.0d71ed9b9537a52c9095.jpg",
+    "static/media/3C8A5714.jpg": "/Cryptosal/static/media/3C8A5714.aeb3b43245dff1701dff.jpg",
+    "index.html": "/Cryptosal/index.html",
+    "main.a13c87df.css.map": "/Cryptosal/static/css/main.a13c87df.css.map",
+    "main.9629aa4f.js.map": "/Cryptosal/static/js/main.9629aa4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13c87df.css",
+    "static/js/main.9629aa4f.js"
+  ]
+}
